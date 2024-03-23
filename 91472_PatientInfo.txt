@@ -1,6 +1,0 @@
-First Name: first
-Last Name: last
-Email: example@gmail.com
-Phone Number: 1234567890
-Health History: test
-Insurance Id: 1234567
